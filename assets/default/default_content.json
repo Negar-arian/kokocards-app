@@ -1,0 +1,500 @@
+{
+  "folders": [
+              {
+            "name": "TOPIK II Master 100 Vocabulary",
+            "color": 4293243875,
+            "flashcards": [
+              {
+                "phrase": "발전\n發展",
+                "pronunciation": "",
+                "meaning": "توسعه \nDevelopment",
+                "example": "한국의 경제 발전은 놀랍습니다.\n기술 발전이 삶을 편리하게 만들었습니다.\n이 지역의 발전을 위해 노력하겠습니다.",
+                "note": "(發) 발 -> emit, (발달 : maturation), (개발 : development)\n(展) 전 -> unfold, (전개 : deployment)\n\nSimilar: 성장 (成長) describes natural growth processes like children growing taller or plants maturing, while 발전 emphasizes deliberate human-driven progress in fields like technology or infrastructure.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "증가\n增加",
+                "pronunciation": "",
+                "meaning": "افزایش \nIncrease",
+                "example": "인구 증가가 사회 문제를 일으키고 있습니다.\n지난달에 판매량이 크게 증가했습니다.\n물가 증가로 인해 생활이 어려워졌습니다.",
+                "note": "(增) 증 -> add, (증대 : enlargement), (가산 : addition)\n(加) 가 -> add, (추가 : addition)\n\nSimilar: 상승 (上昇) specifically refers to upward movement of measurable quantities like stock prices or temperatures, whereas 증가 is a general term for any numerical growth whether positive or negative.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "영향\n影響",
+                "pronunciation": "",
+                "meaning": "تاثیر \nInfluence",
+                "example": "날씨가 농작물에 큰 영향을 미칩니다.\n부모의 태도는 아이에게 많은 영향을 줍니다.\n이 결정이 우리 모두에게 영향을 줄 것입니다.",
+                "note": "(影) 영 -> shadow, (반영 : reflection), (영상 : image)\n(響) 향 -> echo, (음향 : sound)\n\nSimilar: 효과 (效果) indicates a direct, observable outcome like a medicine's effect on symptoms, while 영향 describes broader, often gradual changes in behavior, opinions, or systems over time.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "평가\n評價",
+                "pronunciation": "",
+                "meaning": "ارزیابی \nEvaluation",
+                "example": "학생들의 성적을 평가해야 합니다.\n이 프로젝트의 성과를 평가하는 회의가 있습니다.\n그의 업적은 높이 평가받고 있습니다.",
+                "note": "(評) 평 -> judge, (평론 : critique), (비평 : criticism)\n(價) 가 -> value, (가치 : value)\n\nSimilar: 검토 (檢討) means carefully examining details for accuracy like proofreading a document, while 평가 involves making qualitative judgments about worth or performance.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "해결\n解決",
+                "pronunciation": "",
+                "meaning": "حل \nSolution",
+                "example": "이 문제를 해결할 방법을 찾아야 합니다.\n갈등을 평화적으로 해결했습니다.\n기술적 문제가 완전히 해결되었습니다.",
+                "note": "(解) 해 -> untie, (해소 : resolution), (해명 : clarification)\n(決) 결 -> decide, (결정 : decision)\n\nSimilar: 처리 (處理) refers to completing tasks or managing materials efficiently, while 해결 implies definitively eliminating the root cause of a complex problem.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "조사\n調査",
+                "pronunciation": "",
+                "meaning": "بررسی \nInvestigation",
+                "example": "시장 조사를 진행 중입니다.\n이 사건에 대한 조사가 필요합니다.\n통계 조사 결과가 발표되었습니다.",
+                "note": "(調) 조 -> adjust, (조정 : adjustment), (조화 : harmony)\n(査) 사 -> examine, (검사 : inspection)\n\nSimilar: 연구 (研究) involves systematic academic inquiry with hypothesis testing, whereas 조사 is practical fact-finding through surveys, interviews, or data collection.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "제공\n提供",
+                "pronunciation": "",
+                "meaning": "ارائه \nProvision",
+                "example": "무료 샘플을 제공합니다.\n이 서비스는 정보를 제공하는 역할을 합니다.\n회사에서 직원들에게 교육을 제공했습니다.",
+                "note": "(提) 제 -> offer, (제안 : suggestion), (제시 : presentation)\n(供) 공 -> supply, (공급 : supply)\n\nSimilar: 지원 (支援) means actively assisting someone by sharing resources or expertise, while 제공 focuses on making something available without ongoing involvement.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "적용\n適用",
+                "pronunciation": "",
+                "meaning": "اعمال \nApplication",
+                "example": "새 규정을 다음 주부터 적용합니다.\n이 이론을 실제 상황에 적용해 보세요.\n할인율이 자동으로 적용됩니다.",
+                "note": "(適) 적 -> suitable, (적합 : suitability), (적응 : adaptation)\n(用) 용 -> use, (사용 : usage)\n\nSimilar: 활용 (活用) means creatively adapting something for new purposes, while 적용 is about correctly implementing rules, theories, or systems as intended.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "통계\n統計",
+                "pronunciation": "",
+                "meaning": "آمار \nStatistics",
+                "example": "인구 통계를 참고하세요.\n통계 자료를 분석하고 있습니다.\n이 통계는 신뢰할 수 있습니다.",
+                "note": "(統) 통 -> unite, (통합 : integration), (체계 : system)\n(計) 계 -> calculate, (계산 : calculation)\n\nSimilar: 수치 (數値) refers to raw numerical data points, while 통계 represents processed, analyzed data sets that reveal patterns or trends.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+                "phrase": "순수\n純粹",
+                "pronunciation": "",
+                "meaning": "خالص \nPure",
+                "example": "순수 한국산 제품입니다.\n그의 동기는 순수했습니다.\n순수 학문적 관심에서 연구했습니다.",
+                "note": "(純) 순 -> pure, (순결 : purity), (순진 : innocence)\n(粹) 수 -> essence, (정수 : essence)\n\nSimilar: 깨끗한 describes physical cleanliness of objects or spaces, while 순수 refers to abstract purity of intentions, substances, or artistic styles without adulteration.",
+                "level": "II",
+                "stars": 0,
+                "color": 4293243875
+              },
+              {
+      "phrase": "분석\n分析",
+      "pronunciation": "",
+      "meaning": "تجزیه و تحلیل \nAnalysis",
+      "example": "데이터를 철저히 분석해야 합니다.\n이 논문은 사회 현상을 분석했습니다.\n시장 동향을 분석 중입니다.",
+      "note": "(分) 분 -> divide, (분류 : classification), (분배 : distribution)\n(析) 석 -> analyze, (해석 : interpretation)\n\nSimilar: 검토 (檢討) involves reviewing materials for errors or improvements, while 분석 requires breaking down complex information into components to understand patterns or meanings.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "확인\n確認",
+      "pronunciation": "",
+      "meaning": "تایید \nConfirmation",
+      "example": "예약 내용을 확인해 주세요.\n사실 여부를 확인해야 합니다.\n신분증 확인이 필요합니다.",
+      "note": "(確) 확 -> certain, (확실 : certainty), (확립 : establishment)\n(認) 인 -> recognize, (인정 : recognition)\n\nSimilar: 검증 (檢證) means verifying authenticity through evidence, while 확인 is a general process of establishing truth or accuracy through observation or inquiry.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "과정\n過程",
+      "pronunciation": "",
+      "meaning": "فرایند \nProcess",
+      "example": "학습 과정이 중요합니다.\n제조 과정을 개선했습니다.\n이러한 과정을 거쳐 결정되었습니다.",
+      "note": "(過) 과 -> pass, (경과 : passage), (과거 : past)\n(程) 정 -> measure, (진정 : procedure), (일정 : schedule)\n\nSimilar: 진행 (進行) focuses on the active movement through stages, while 과정 refers to the complete sequence of steps from start to finish.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "실시\n實施",
+      "pronunciation": "",
+      "meaning": "اجرا \nImplementation",
+      "example": "새 정책을 다음 달부터 실시합니다.\n안전 점검을 정기적으로 실시하고 있습니다.\n이번 훈련은 실제 상황을 가정하여 실시했습니다.",
+      "note": "(實) 실 -> real, (실행 : execution), (실천 : practice)\n(施) 시 -> apply, (시행 : enforcement), (시설 : facility)\n\nSimilar: 적용 (適用) means putting rules/theories into practice, while 실시 emphasizes the official commencement of systems or large-scale operations.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "주장\n主張",
+      "pronunciation": "",
+      "meaning": "ادعا \nClaim",
+      "example": "그는 자신의 주장을 증명해야 합니다.\n양측이 서로 다른 주장을 하고 있습니다.\n이 이론을 주장하는 학자들이 점점 늘고 있습니다.",
+      "note": "(主) 주 -> main, (주도 : leadership), (주관 : supervision)\n(張) 장 -> spread, (장악 : control), (개진 : presentation)\n\nSimilar: 의견 (意見) refers to personal opinions that may be subjective, while 주장 implies strongly asserted positions requiring evidence or justification.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "개선\n改善",
+      "pronunciation": "",
+      "meaning": "بهبود \nImprovement",
+      "example": "서비스 질을 개선하기로 결정했습니다.\n건강 상태가 점점 개선되고 있습니다.\n이 소프트웨어는 사용자 편의성을 개선했습니다.",
+      "note": "(改) 개 -> reform, (개정 : revision), (개혁 : reform)\n(善) 선 -> good, (선행 : good deed), (선량 : kindness)\n\nSimilar: 향상 (向上) describes enhancing existing positive qualities, while 개선 focuses on fixing flaws or deficiencies in systems or conditions.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "확대\n擴大",
+      "pronunciation": "",
+      "meaning": "گسترش \nExpansion",
+      "example": "사업을 해외로 확대할 계획입니다.\n도시가 점점 확대되고 있습니다.\n이 프로그램의 적용 범위를 확대해야 합니다.",
+      "note": "(擴) 확 -> widen, (확장 : extension), (확산 : diffusion)\n(大) 대 -> big, (대규모 : large-scale), (확충 : augmentation)\n\nSimilar: 증가 (增加) refers to quantitative growth in numbers, while 확대 describes spatial or conceptual broadening of scope or scale.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "의미\n意味",
+      "pronunciation": "",
+      "meaning": "معنی \nMeaning",
+      "example": "이 단어의 정확한 의미를 알아야 합니다.\n그 제스처의 문화적 의미가 중요합니다.\n이 발견은 과학적으로 큰 의미가 있습니다.",
+      "note": "(意) 의 -> intention, (의도 : intention), (주의 : attention)\n(味) 미 -> flavor, (미각 : taste), (풍미 : flavor)\n\nSimilar: 뜻 refers to basic dictionary definitions or surface-level intentions, while 의미 encompasses deeper conceptual significance and contextual implications.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "기반\n基盤",
+      "pronunciation": "",
+      "meaning": "پایه \nFoundation",
+      "example": "경제 기반이 튼튼해야 합니다.\n이론적 기반을 마련했습니다.\n기술 발전의 기반이 되는 연구입니다.",
+      "note": "(基) 기 -> base, (기초 : basics), (기본 : fundamental)\n(盤) 반 -> tray, (접시 : plate), (지지대 : support)\n\nSimilar: 토대 (土臺) refers to physical foundations like building bases, while 기반 describes abstract supporting structures like economic or theoretical frameworks.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "수행\n遂行",
+      "pronunciation": "",
+      "meaning": "انجام \nExecution",
+      "example": "임무를 완벽히 수행했습니다.\n의식적인 절차를 수행하고 있습니다.\n이 실험은 전문가가 수행해야 합니다.",
+      "note": "(遂) 수 -> accomplish, (완수 : completion), (달성 : achievement)\n(行) 행 -> go, (행동 : action), (실행 : implementation)\n\nSimilar: 실행 (實行) means putting plans into action, while 수행 implies carrying out duties or rituals with precision and responsibility.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "제한\n制限",
+      "pronunciation": "",
+      "meaning": "محدودیت \nRestriction",
+      "example": "속도 제한을 준수하세요.\n자원 사용에 제한이 있습니다.\n이 서비스는 지역적으로 제한됩니다.",
+      "note": "(制) 제 -> control, (제도 : system), (규제 : regulation)\n(限) 한 -> limit, (한계 : limit), (한도 : quota)\n\nSimilar: 금지 (禁止) means complete prohibition of actions, while 제한 allows controlled usage within specified boundaries.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "이행\n履行",
+      "pronunciation": "",
+      "meaning": "اجرا \nFulfillment",
+      "example": "약속을 반드시 이행하겠습니다.\n계약 조건을 이행해야 합니다.\n국제적 의무를 이행 중입니다.",
+      "note": "(履) 이 -> carry out, (실천 : practice), (수행 : execution)\n(行) 행 -> go, (행동 : action), (실행 : implementation)\n\nSimilar: 완료 (完了) simply means finishing tasks, while 이행 emphasizes dutiful completion of promises or legal obligations.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "개발\n開發",
+      "pronunciation": "",
+      "meaning": "توسعه \nDevelopment",
+      "example": "신제품 개발에 투자했습니다.\n이 지역은 관광지로 개발 중입니다.\n새로운 소프트웨어를 개발했습니다.",
+      "note": "(開) 개 -> open, (개척 : pioneering), (창조 : creation)\n(發) 발 -> emit, (발견 : discovery), (발명 : invention)\n\nSimilar: 연구 (研究) focuses on theoretical exploration, while 개발 applies knowledge to create practical products or systems.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "도입\n導入",
+      "pronunciation": "",
+      "meaning": "معرفی \nIntroduction",
+      "example": "새로운 시스템을 도입했습니다.\n외국 기술을 도입하는 것이 중요합니다.\n이 제도는 작년에 도입되었습니다.",
+      "note": "(導) 도 -> guide, (지도 : guidance), (선도 : leadership)\n(入) 입 -> enter, (수입 : import), (편입 : incorporation)\n\nSimilar: 소개 (紹介) means personal introductions between people, while 도입 refers to formal adoption of systems, technologies, or policies.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "확립\n確立",
+      "pronunciation": "",
+      "meaning": "استقرار \nEstablishment",
+      "example": "새로운 규범을 확립해야 합니다.\n이론적 기반을 확립했습니다.\n신뢰 관계를 확립하는 데 시간이 걸립니다.",
+      "note": "(確) 확 -> certain, (확실 : certainty), (확인 : confirmation)\n(立) 립 -> stand, (설립 : founding), (입장 : position)\n\nSimilar: 설립 (設立) means founding organizations physically, while 확립 refers to establishing abstract systems like theories or relationships firmly.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "강화\n強化",
+      "pronunciation": "",
+      "meaning": "تقویت \nStrengthening",
+      "example": "규정을 더욱 강화했습니다.\n국방력을 강화해야 합니다.\n두 회사는 협력을 강화하기로 했습니다.",
+      "note": "(強) 강 -> strong, (강력 : powerful), (강제 : enforcement)\n(化) 화 -> change, (변화 : change), (최적화 : optimization)\n\nSimilar: 증가 (增加) means quantitative growth, while 강화 focuses on qualitative improvement of capabilities or intensities.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "완성\n完成",
+      "pronunciation": "",
+      "meaning": "تکمیل \nCompletion",
+      "example": "작품이 거의 완성되었습니다.\n이 건물은 내년에 완성됩니다.\n연구 보고서를 완성했습니다.",
+      "note": "(完) 완 -> perfect, (완벽 : perfection), (완전 : completeness)\n(成) 성 -> become, (성공 : success), (성장 : growth)\n\nSimilar: 종료 (終了) simply means ending processes, while 완성 implies reaching a polished, intended final state.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "보완\n補完",
+      "pronunciation": "",
+      "meaning": "تکمیل \nComplement",
+      "example": "이 시스템의 약점을 보완해야 합니다.\n서로의 부족한 점을 보완합니다.\n새 장비로 기존 시설을 보완했습니다.",
+      "note": "(補) 보 -> supplement, (보조 : assistance), (보충 : replenishment)\n(完) 완 -> perfect, (완성 : completion), (완전 : perfection)\n\nSimilar: 수정 (修正) means correcting errors, while 보완 improves by adding complementary elements to cover weaknesses.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "시행\n施行",
+      "pronunciation": "",
+      "meaning": "اجرا \nEnforcement",
+      "example": "새 법안을 시행 중입니다.\n이 규정은 3월부터 시행됩니다.\n시행 계획을 세워야 합니다.",
+      "note": "(施) 시 -> apply, (적용 : application), (시설 : facility)\n(行) 행 -> go, (행동 : action), (실행 : implementation)\n\nSimilar: 실시 (實施) focuses on putting systems into operation, while 시행 emphasizes the authoritative enforcement of laws or policies.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "구축\n構築",
+      "pronunciation": "",
+      "meaning": "ساخت \nConstruction",
+      "example": "인프라를 구축하고 있습니다.\n신뢰 관계를 구축하는 것이 중요합니다.\n데이터베이스를 구축했습니다.",
+      "note": "(構) 구 -> construct, (구조 : structure), (설계 : design)\n(築) 축 -> build, (건축 : architecture), (조성 : formation)\n\nSimilar: 건설 (建設) refers to physical construction of buildings, while 구축 can describe creating abstract systems like networks or relationships.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },{
+      "phrase": "심화\n深化",
+      "pronunciation": "",
+      "meaning": "تعمیق \nDeepening",
+      "example": "연구를 심화시킬 계획입니다.\n문제가 점점 심화되고 있습니다.\n이 주제에 대한 심화 학습이 필요합니다.",
+      "note": "(深) 심 -> deep, (깊이 : depth), (심층 : deep layer)\n(化) 화 -> change, (변화 : change), (강화 : strengthening)\n\nSimilar: 강화 (強化) means making something stronger in intensity, while 심화 refers to making knowledge or situations more profound and comprehensive.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재고\n在庫",
+      "pronunciation": "",
+      "meaning": "موجودی \nInventory",
+      "example": "재고 상태를 확인하세요.\n재고 관리가 중요합니다.\n이 제품은 현재 재고가 없습니다.",
+      "note": "(在) 재 -> exist, (존재 : existence), (현재 : present)\n(庫) 고 -> warehouse, (창고 : warehouse), (금고 : vault)\n\nSimilar: 물량 (物量) refers to the physical quantity of goods, while 재고 specifically means stored products available for sale or use.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "파악\n把握",
+      "pronunciation": "",
+      "meaning": "درک \nUnderstanding",
+      "example": "상황을 정확히 파악해야 합니다.\n시장 동향을 파악 중입니다.\n학생들의 실력을 파악하는 테스트입니다.",
+      "note": "(把) 파 -> grasp, (장악 : control), (파수 : guard)\n(握) 악 -> grip, (확보 : securing), (장악 : domination)\n\nSimilar: 이해 (理解) means general comprehension, while 파악 emphasizes actively grasping and analyzing complex situations or data.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "조정\n調整",
+      "pronunciation": "",
+      "meaning": "تنظیم \nAdjustment",
+      "example": "일정을 조정해야 합니다.\n컴퓨터 화면 밝기를 조정하세요.\n두 회사는 가격을 조정하기로 했습니다.",
+      "note": "(調) 조 -> harmonize, (조화 : harmony), (조율 : tuning)\n(整) 정 -> arrange, (정리 : arrangement), (정비 : maintenance)\n\nSimilar: 수정 (修正) means correcting errors, while 조정 involves fine-tuning elements to achieve proper balance or function.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "모색\n摸索",
+      "pronunciation": "",
+      "meaning": "جستجو \nSearch",
+      "example": "새로운 방안을 모색 중입니다.\n해결책을 모색해야 합니다.\n이 분야에서 기회를 모색하고 있습니다.",
+      "note": "(摸) 모 -> feel, (접촉 : contact), (탐색 : exploration)\n(索) 색 -> seek, (검색 : search), (추적 : tracking)\n\nSimilar: 탐구 (探究) implies academic investigation, while 모색 refers to actively seeking practical solutions or opportunities.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "편성\n編成",
+      "pronunciation": "",
+      "meaning": "سازماندهی \nOrganization",
+      "example": "새로운 팀을 편성했습니다.\nTV 프로그램 편성이 바뀌었습니다.\n이번 학기 시간표 편성이 끝났습니다.",
+      "note": "(編) 편 -> compile, (편집 : editing), (편찬 : compilation)\n(成) 성 -> form, (구성 : composition), (형성 : formation)\n\nSimilar: 구성 (構成) refers to the structure of elements, while 편성 emphasizes the active process of organizing people or content systematically.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재검토\n再檢討",
+      "pronunciation": "",
+      "meaning": "بازبینی \nReview",
+      "example": "정책을 재검토하기로 했습니다.\n계획을 재검토해야 합니다.\n이 결정은 재검토가 필요합니다.",
+      "note": "(再) 재 -> again, (재개 : resumption), (재발 : recurrence)\n(檢) 검 -> inspect, (검사 : inspection), (검증 : verification)\n(討) 토 -> discuss, (토론 : discussion), (토의 : deliberation)\n\nSimilar: 검토 (檢討) is an initial review, while 재검토 implies re-examining something after changes or new information emerges.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재평가\n再評價",
+      "pronunciation": "",
+      "meaning": "ارزیابی مجدد \nReevaluation",
+      "example": "역사적 인물을 재평가하고 있습니다.\n이 작품의 가치를 재평가해야 합니다.\n자산을 재평가 중입니다.",
+      "note": "(再) 재 -> again, (재검토 : review), (재고 : reconsideration)\n(評) 평 -> judge, (평가 : evaluation), (비평 : criticism)\n(價) 가 -> value, (가치 : value), (가격 : price)\n\nSimilar: 재검토 (再檢討) means reviewing for accuracy, while 재평가 involves reassessing the worth or importance of something.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재구성\n再構成",
+      "pronunciation": "",
+      "meaning": "بازسازی \nReorganization",
+      "example": "데이터를 재구성했습니다.\n조직을 재구성할 계획입니다.\n이 건물은 완전히 재구성되었습니다.",
+      "note": "(再) 재 -> again, (재건설 : reconstruction), (재생 : regeneration)\n(構) 구 -> construct, (구조 : structure), (구축 : construction)\n(成) 성 -> form, (형성 : formation), (완성 : completion)\n\nSimilar: 수정 (修正) makes minor corrections, while 재구성 implies fundamentally restructuring or rebuilding systems or content.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재발견\n再發見",
+      "pronunciation": "",
+      "meaning": "کشف مجدد \nRediscovery",
+      "example": "전통 문화를 재발견하고 있습니다.\n이 작가는 최근 재발견되었습니다.\n도시의 매력을 재발견했습니다.",
+      "note": "(再) 재 -> again, (재조명 : reappraisal), (재해석 : reinterpretation)\n(發) 발 -> emit, (발견 : discovery), (발명 : invention)\n(見) 견 -> see, (견해 : viewpoint), (예견 : foresight)\n\nSimilar: 발견 (發見) is an initial discovery, while 재발견 means recognizing value in something that was forgotten or overlooked.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재창조\n再創造",
+      "pronunciation": "",
+      "meaning": "بازآفرینی \nRecreation",
+      "example": "고전을 현대적으로 재창조했습니다.\n이 건물은 완전히 재창조되었습니다.\n팀을 새롭게 재창조할 계획입니다.",
+      "note": "(再) 재 -> again, (재구성 : reorganization), (재해석 : reinterpretation)\n(創) 창 -> create, (창조 : creation), (창의 : creativity)\n(造) 조 -> make, (제조 : manufacturing), (인조 : artificial)\n\nSimilar: 개조 (改造) means physical remodeling, while 재창조 implies conceptually reinventing something with new creative vision.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재해석\n再解釋",
+      "pronunciation": "",
+      "meaning": "تفسیر مجدد \nReinterpretation",
+      "example": "역사적 사건을 재해석했습니다.\n이 법조문을 재해석해야 합니다.\n고전 문학을 현대적으로 재해석했습니다.",
+      "note": "(再) 재 -> again, (재검토 : review), (재평가 : reevaluation)\n(解) 해 -> untie, (해석 : interpretation), (이해 : understanding)\n(釋) 석 -> explain, (주석 : annotation), (석의 : commentary)\n\nSimilar: 분석 (分析) examines components objectively, while 재해석 involves subjectively redefining meanings from new perspectives.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재정립\n再定立",
+      "pronunciation": "",
+      "meaning": "بازتعریف \nRedefinition",
+      "example": "이론을 재정립해야 합니다.\n규범을 현대적으로 재정립했습니다.\n정책 방향을 재정립 중입니다.",
+      "note": "(再) 재 -> again, (재설정 : resetting), (재구성 : reorganization)\n(定) 정 -> fix, (정의 : definition), (설정 : setting)\n(立) 립 -> stand, (확립 : establishment), (입장 : position)\n\nSimilar: 수정 (修正) adjusts existing frameworks, while 재정립 establishes entirely new foundational principles.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재편\n再編",
+      "pronunciation": "",
+      "meaning": "بازسازی \nReorganization",
+      "example": "회사를 재편할 계획입니다.\n행정 구역을 재편했습니다.\n교육 과정을 재편 중입니다.",
+      "note": "(再) 재 -> again, (재구성 : reorganization), (재배치 : rearrangement)\n(編) 편 -> compile, (편성 : organization), (편집 : editing)\n\nSimilar: 조정 (調整) makes small adjustments, while 재편 involves large-scale restructuring of systems or organizations.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재배치\n再配置",
+      "pronunciation": "",
+      "meaning": "جابجایی \nRearrangement",
+      "example": "가구를 재배치했습니다.\n인력을 재배치할 계획입니다.\n자원을 효율적으로 재배치했습니다.",
+      "note": "(再) 재 -> again, (재편 : reorganization), (재설치 : reinstallation)\n(配) 배 -> distribute, (분배 : distribution), (배치 : arrangement)\n(置) 치 -> place, (설치 : installation), (위치 : location)\n\nSimilar: 이동 (移動) means simple movement, while 재배치 systematically reorganizes spatial arrangements for better efficiency.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재설계\n再設計",
+      "pronunciation": "",
+      "meaning": "طراحی مجدد \nRedesign",
+      "example": "시스템을 재설계했습니다.\n도시 계획을 재설계해야 합니다.\n이 제품은 완전히 재설계되었습니다.",
+      "note": "(再) 재 -> again, (재구성 : reorganization), (재검토 : review)\n(設) 설 -> establish, (설정 : setting), (건설 : construction)\n(計) 계 -> plan, (계획 : plan), (계산 : calculation)\n\nSimilar: 개선 (改善) improves existing designs, while 재설계 creates fundamentally new blueprints from scratch.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재검증\n再檢證",
+      "pronunciation": "",
+      "meaning": "اعتبارسنجی مجدد \nReverification",
+      "example": "데이터를 재검증해야 합니다.\n이론을 재검증 중입니다.\n실험 결과를 재검증했습니다.",
+      "note": "(再) 재 -> again, (재확인 : reconfirmation), (재평가 : reevaluation)\n(檢) 검 -> inspect, (검사 : inspection), (검증 : verification)\n(證) 증 -> proof, (증명 : proof), (입증 : demonstration)\n\nSimilar: 확인 (確認) is initial verification, while 재검증 repeats testing under new conditions to ensure reliability.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재현\n再現",
+      "pronunciation": "",
+      "meaning": "بازآفرینی \nReproduction",
+      "example": "역사적 장면을 재현했습니다.\n이 실험 결과를 재현할 수 없습니다.\n전통 공연을 현대적으로 재현했습니다.",
+      "note": "(再) 재 -> again, (재생 : regeneration), (재창조 : recreation)\n(現) 현 -> appear, (현재 : present), (실현 : realization)\n\nSimilar: 모방 (模倣) means simple imitation, while 재현 accurately reproduces original conditions or experiences.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    },
+    {
+      "phrase": "재생\n再生",
+      "pronunciation": "",
+      "meaning": "تولید مجدد \nRegeneration",
+      "example": "폐자원을 재생했습니다.\n이 기술은 에너지를 재생합니다.\n피부 세포가 재생되고 있습니다.",
+      "note": "(再) 재 -> again, (재사용 : reuse), (재활용 : recycling)\n(生) 생 -> life, (생명 : life), (생산 : production)\n\nSimilar: 복구 (復舊) restores original states, while 재생 creates new usable materials or energy from waste products.",
+      "level": "II",
+      "stars": 0,
+      "color": 4293243875
+    }
+            
+            ]
+          }
+  ]
+}

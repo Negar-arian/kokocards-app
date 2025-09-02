@@ -515,10 +515,13 @@ class _FolderContentScreenState extends State<FolderContentScreen> {
     ),
                 if (card.pronunciation.isNotEmpty) ...[
                   const SizedBox(height: 8),
-                  Text(
+                  Padding(
+                      
+                      padding: EdgeInsets.only(left: 135),
+                      child: Text(
                     card.pronunciation,
-                    style: const TextStyle(fontSize: 16, fontStyle: FontStyle.italic),
-                  ),
+                    style: const TextStyle(fontSize: 16,color: Colors.white70),
+                  ))
                 ],
 
 

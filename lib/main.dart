@@ -3,6 +3,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'flashcard.dart';
 import 'folder.dart';
 import 'screens/home_screen.dart';
+import 'ai_settings.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -11,7 +12,9 @@ void main() async {
     await Hive.initFlutter();
     Hive.registerAdapter(FlashcardAdapter());
     Hive.registerAdapter(FolderAdapter());
+    Hive.registerAdapter(AISettingsAdapter());
     await Hive.openBox<Flashcard>('flashcards');
+    await Hive.openBox<AISettings>('ai_settings');
     await Hive.openBox<Folder>('folders');
     runApp(FlashcardApp());
   } catch (e) {

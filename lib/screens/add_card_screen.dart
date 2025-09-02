@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import '../flashcard.dart';
 import '../folder.dart';
+import '../services/ai_service.dart';
+import '../ai_settings.dart';
+import 'ai_settings_screen.dart';
 
 class AddCardScreen extends StatefulWidget {
   final String folderId;
@@ -25,6 +28,7 @@ class _AddCardScreenState extends State<AddCardScreen> {
   final _meaningController = TextEditingController();
   final _exampleController = TextEditingController();
   final _noteController = TextEditingController();
+  bool _isGenerating = false;
 
   int _stars = 0;
   String _level = 'II';
@@ -48,6 +52,120 @@ class _AddCardScreenState extends State<AddCardScreen> {
       _level = card.level;
       _selectedColor = Color(card.color);
     }
+  }
+
+  Future<void> _generateWithAI() async {
+    final phrase = _phraseController.text.trim();
+    if (phrase.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Please enter a phrase first')),
+      );
+      return;
+    }
+
+    final box = Hive.box<AISettings>('ai_settings');
+    if (box.isEmpty) {
+      _showAISetupDialog();
+      return;
+    }
+
+    final settings = box.getAt(0)!;
+    if (settings.apiKey.isEmpty) {
+      _showAISetupDialog();
+      return;
+    }
+
+    setState(() => _isGenerating = true);
+
+    try {
+      final result = await AIService.generateFlashcard(
+        apiKey: settings.apiKey,
+        phrase: phrase,
+        selectedLanguage: settings.selectedLanguage,
+        isGrammar: settings.isGrammar,
+        numberOfExamples: settings.numberOfExamples,
+        translateExamples: settings.translateExamples,
+        includeHanjaOrPronunciation: settings.includeHanjaOrPronunciation,
+        customRequirements: settings.customRequirements,
+      );
+
+
+      setState(() {
+        _meaningController.text = result['meaning'] ?? '';
+
+        if (settings.selectedLanguage == 'Korean' && settings.includeHanjaOrPronunciation) {
+          _pronunciationController.text = result['hanja'] ?? '';
+        } else if (settings.selectedLanguage == 'English' && settings.includeHanjaOrPronunciation) {
+          _pronunciationController.text = result['pronunciation'] ?? '';
+        } else {
+          _pronunciationController.text = '';
+        }
+
+        // Handle examples - join with newlines
+        final examples = result['examples'] is List ? result['examples'] as List<dynamic> : [];
+        final exampleTranslations = result['example_translations'] is List
+            ? result['example_translations'] as List<dynamic>
+            : [];
+
+        String exampleText = '';
+        for (int i = 0; i < examples.length; i++) {
+          exampleText += examples[i].toString();
+          if (i < exampleTranslations.length) {
+            exampleText += '\n(${exampleTranslations[i]})';
+          }
+          if (i < examples.length - 1) {
+            exampleText += '\n\n';
+          }
+        }
+
+        _exampleController.text = exampleText;
+        _noteController.text = result['note'] ?? '';
+        _level = result['level'] ?? 'II';
+      });
+
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Flashcard generated successfully!')),
+      );
+    } catch (e) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Error generating flashcard: ${e.toString()}')),
+      );
+    } finally {
+      setState(() => _isGenerating = false);
+    }
+  }
+
+  void _showAISetupDialog() {
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: Text('AI Setup Required'),
+        content: Text('Please set up your DeepSeek API key in settings first.'),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text('Cancel'),
+          ),
+          TextButton(
+            onPressed: () {
+              Navigator.pop(context);
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (_) => AISettingsScreen()),
+              );
+            },
+            child: Text('Settings'),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _openAISettings() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => AISettingsScreen()),
+    );
   }
 
   @override
@@ -179,6 +297,30 @@ class _AddCardScreenState extends State<AddCardScreen> {
                       }
                       return null;
                     },
+                  ),
+                  Row(
+                    children: [
+                      Expanded(
+                        child: ElevatedButton.icon(
+                          onPressed: _isGenerating ? null : _generateWithAI,
+                          icon: _isGenerating
+                              ? CircularProgressIndicator(color: Colors.white, strokeWidth: 2)
+                              : Icon(Icons.auto_awesome),
+                          label: Text(_isGenerating ? 'Generating...' : 'AI Generate'),
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor: Color(0xFF00ADB5),
+                            foregroundColor: Colors.white,
+                          ),
+                        ),
+                      ),
+                      SizedBox(width: 10),
+                      IconButton(
+                        onPressed: _openAISettings,
+                        icon: Icon(Icons.settings),
+                        color: Colors.white70,
+                        tooltip: 'AI Settings',
+                      ),
+                    ],
                   ),
                   const SizedBox(height: 20),
 

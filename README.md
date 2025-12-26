@@ -1,7 +1,7 @@
 
 
 
-# 🎴 KokoCards - Flashcard Learning App
+#  KokoCards - Flashcard Learning App
 
 <div align="center">
   
@@ -22,14 +22,14 @@
 
 ## ✨ Features
 
-#### 📂 **Organization System**
+####  **Organization System**
 - Folder Management:  Create folders with custom colors for categorizing flashcards
 - Smart Card System: Add cards with pronunciation, meaning, and example sentences in any Language
 - Scoring System: Rate cards (★) to track learning progress
 - Folder Notes: Add descriptive notes to each folder
 - AI flashcard builder: there is an option in add card page that you can fill the flash card fields using LLM's like deepseek.
 
-#### 🔄 Import & Export
+####  Import & Export
 - **Share Flashcards**: Export in multiple formats:
   - Complete folders (with cards and notes)
   - Selected cards as JSON, Excel, or text
@@ -38,7 +38,7 @@
   - JSON files (complete folders or loose cards)
   - Excel files (for loose cards)
 
-#### 🔍 Smart Navigation & Search
+####  Smart Navigation & Search
 - **Intelligent Search**: Smart ranking algorithm that:
   - Prioritizes exact matches
   - Favors cards starting with search term
@@ -50,7 +50,7 @@
   - Play mode for selected cards only
   - Sort cards by star rating (descending)
 
-## 🚀 How to Use
+##  How to Use
 
 ### Creating Folders
 1. Tap the **+** button on the main screen
@@ -110,7 +110,7 @@ lib/
 ```
 
 -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Flutter**  - Cross-platform framework
 - **Dart** - Programming language
@@ -118,7 +118,7 @@ lib/
 - **File Handling** - JSON/Excel import/export
 - **Share Plugin** - Cross-platform sharing
 
-## 📥 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -136,7 +136,7 @@ lib/
    flutter run
    ```
 
-## 🎯 Target Audience
+##  Target Audience
 
 - **Language Learners**: Perfect for vocabulary building (mainly for learning korean)
 - **Students**: Great for exam preparation
@@ -151,11 +151,11 @@ lib/
 | **Excel (.xlsx)** | ✅ | ✅ | Flashcard data only |
 | **Plain Text** | ❌ | ✅ | Simple card sharing |
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
+##  License
 
 
 
@@ -169,7 +169,7 @@ But you MUST:
 
 No warranties - use at your own risk.
 
-## 📞 Contact & Support
+##  Contact & Support
 
 For more flashcards and updates, join our Telegram channel: [@kokocards](https://t.me/kokocards)
 

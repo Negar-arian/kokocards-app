@@ -122,7 +122,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/kokocards.git
+   git clone https://github.com/negar-arian/kokocards.git
    cd kokocards
    ```
 
